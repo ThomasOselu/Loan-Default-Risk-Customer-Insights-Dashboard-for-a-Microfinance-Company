@@ -12,6 +12,8 @@ Automated data cleaning using QUERY functions, reducing manual processing time
 Built KPI metrics to monitor portfolio performance and credit risk
 Developed an interactive dashboard improving data visibility and reporting efficiency
 Enabled identification of default trends and high-risk borrower segments
+
+
 Tools & Skills Used
 Tools: Google Sheets
 Skills: Data Cleaning, Data Analysis, Data Visualization, Dashboard Design, KPI Development
